@@ -64,9 +64,9 @@
     echo "<thead>";
     echo "<tr>";
     echo "<th scope='col' colspan='2' class='text-center'>Ações</th>";
-    echo "<th scope='col'>Nome</th>";
     echo "<th scope='col'>CPF</th>";
     echo "<th scope='col'>Email</th>";
+    echo "<th scope='col'>Nome</th>";
     echo "</tr></thead><tbody>";
 
     foreach($clientes as $cliente){
